@@ -403,3 +403,5 @@ Before you move on, make sure you can answer the following questions:
 [guides_has_many_through]: http://guides.rubyonrails.org/association_basics.html#the-has-many-through-association
 [api_associations_class_methods]: http://api.rubyonrails.org/classes/ActiveRecord/Associations/ClassMethods.html
 [api_inflector]: http://api.rubyonrails.org/classes/ActiveSupport/Inflector.html
+
+https://github.com/G3o-R/phase-4-active-record-associations-review-readme
